@@ -1,0 +1,107 @@
+body {
+  background: url(/dist/redhell.jpeg);
+}
+
+.bluebeam {
+  width: 100vw;
+  height: 10px;
+}
+
+
+.content {
+  width: 2000px;
+  color: aqua;
+  margin: auto;
+  text-align: center;
+  font-size: 32px;
+}
+
+.underc {
+  position: relative; 
+  width: 360px;
+  top: -125px;
+}
+
+.links {
+  color: white;
+  position: relative; 
+  width: 150px;
+  top: -425px;
+  right: -1450px;
+}
+
+
+.womanglobe {
+  position: relative; 
+  width: 175px;
+  top: -300px;
+  right: -950px;
+}
+
+.globe {
+  position: relative; 
+  width: 275px;
+  top: -350px;
+  left: 50px;
+}
+
+.globetwo {
+  position: relative; 
+  width: 300px;
+  top: -350px;
+  right: -1300px;
+}
+
+.redbeam {
+  position: relative; 
+  width: 550px;
+  top: -350px;
+  right: -485px;
+}
+
+.lightening {
+  position: relative; 
+  width: 700px;
+  height: 300px;
+  top: -600px;
+  left: -500px;
+}
+
+.jesus {
+  position: relative; 
+  width: 300px;
+  top: -350px;
+  right: -800px;
+}
+
+.musicbutton {
+  font-size: 32px;
+  color: yellow;
+}
+
+
+#player-container #play-pause {
+  cursor: pointer;
+  text-indent: -999999px;
+  height: 50px;
+  width: 50px;
+  padding: 12px 18px;
+  z-index: 2;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMiAyNHYtMjRsMjAgMTItMjAgMTJ6Ii8+PC9zdmc+);
+  background-repeat: no-repeat!important;
+  background-position: center;
+  background-size: 16px;
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:20px;
+  background-color: gainsboro;
+}
+.play {
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMiAyNHYtMjRsMjAgMTItMjAgMTJ6Ii8+PC9zdmc+);
+}
+.pause {
+   background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTAgMjRoLTZ2LTI0aDZ2MjR6bTEwLTI0aC02djI0aDZ2LTI0eiIvPjwvc3ZnPg==)!important;
+}
+
+/* Start https://www.cursors-4u.com */ 
+* {cursor: url(https://cur.cursors-4u.net/anime/ani-10/ani936.ani), url(https://cur.cursors-4u.net/anime/ani-10/ani936.png), auto !important;} /* End https://www.cursors-4u.com */
